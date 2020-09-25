@@ -1,5 +1,8 @@
 
 # Mi Card
 <br>
-<img src="Screenshots\screen.jpg">
+<div>
+	<img src="Screenshots\screen.jpg">
+	<img src="Screenshots\screen1.jpg">
+</div>
 
