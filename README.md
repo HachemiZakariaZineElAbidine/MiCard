@@ -7,9 +7,9 @@ This is a basic flutter project
 
 ## Screenshots:
 
-<img src="Screenshots\screen.jpg" width="250"/>
+<img src="Screenshots\screen.jpg">
 
-<img src="Screenshots\screen1.jpg" width="250"/>
+<img src="Screenshots\screen1.jpg">
 
 ## Tools used:
 * IntelliJ IDEA (text editor)
