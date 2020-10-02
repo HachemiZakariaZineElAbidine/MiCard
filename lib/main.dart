@@ -51,7 +51,7 @@ class MyApp extends StatelessWidget {
                     ),
                     SizedBox(width: 20),
                     Text(
-                      '+213 555602756',
+                      '6+213 555602756',
                       style: TextStyle(
                           color: Colors.black,
                           fontSize: 17,
@@ -72,7 +72,7 @@ class MyApp extends StatelessWidget {
                     ),
                     SizedBox(width: 20),
                     Text(
-                      'hachemizakaria@gmail.com',
+                      'hachemizakaria@gmail.co/m',
                       style: TextStyle(
                           color: Colors.black,
                           fontFamily: 'Source',
